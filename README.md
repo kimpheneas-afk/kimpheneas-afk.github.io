@@ -1,2 +1,2 @@
 # pheneaskim.github.io
-Personal website of Pheneas Kim, a software developer based in Kenya.
+Personal website of Pheneas Kim, a mobile app developer based in Kenya.
